@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tasniema/calculater.git/static/css/main.963517eb.css",
+    "main.js": "/Tasniema/calculater.git/static/js/main.778df6f1.js",
+    "index.html": "/Tasniema/calculater.git/index.html",
+    "main.963517eb.css.map": "/Tasniema/calculater.git/static/css/main.963517eb.css.map",
+    "main.778df6f1.js.map": "/Tasniema/calculater.git/static/js/main.778df6f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.963517eb.css",
+    "static/js/main.778df6f1.js"
+  ]
+}
